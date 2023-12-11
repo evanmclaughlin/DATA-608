@@ -1,0 +1,51 @@
+mineral,use,source_country1,status1,score1,source_country2,status2,score2,source_country3,status3,score3,source_country4,status4,score4,source_country5,status5,score5,overall_score,us_demand
+Aluminum,used in almost all sectors of the economy,China,competitor,3,Russia,competitor,3,Canada,ally,1,India,ally,1,United Arab Emirates,ally,1,9,High
+Antimony,used in lead-acid batteries and flame retardants,China,competitor,3,Russia,competitor,3,Tajikistan,ally,1,Bolivia,competitor,3,Myanmar,competitor,3,13,Medium
+Arsenic,used in semi-conductors,China,competitor,3,Chile,ally,1,Morocco,ally,1,Peru,ally,1,Russia,competitor,3,9,Low
+Barite,used in hydrocarbon production.,China,competitor,3,India,ally,1,Morocco,ally,1,United States,ally,1,Mexico,ally,1,7,Medium
+Beryllium,used as an alloying agent in aerospace and defense industries,United States,ally,1,China,competitor,3,Mozambique,ally,1,Brazil,neutral,2,Madagascar,ally,1,8,High
+Bismuth,used in medical and atomic research,China,competitor,3,Vietnam,ally,1,Mexico,ally,1,Bolivia,competitor,3,Peru,ally,1,9,Medium
+Cerium,used in catalytic converters,China,competitor,3,Myanmar,competitor,3,Australia,ally,1,India,ally,1,Brazil,neutral,2,10,High
+Cesium,used in research and development,Canada,ally,1,Zimbabwe,neutral,2,Afghanistan,competitor,3,Brazil,neutral,2,Russia,competitor,3,11,Medium
+Chromium,used primarily in stainless steel and other alloys,South Africa,neutral,2,Kazakhstan,ally,1,India,ally,1,Turkey,ally,1,Finland,ally,1,6,High
+Cobalt,used in rechargeable batteries and superalloys,Democratic Republic of Congo,neutral,2,China,competitor,3,Canada,ally,1,Australia,ally,1,Cuba,competitor,3,10,High
+Dysprosium,used in permanent magnets,China,competitor,3,Australia,ally,1,United States,ally,1,Brazil,neutral,2,Russia,competitor,3,10,High
+Erbium,used in fiber optics,China,competitor,3,Brazil,neutral,2,India,ally,1,Russia,competitor,3,Thailand,ally,1,10,Mediun
+Europium,used in phosphors and nuclear control rods,China,competitor,3,France,ally,1,Estonia,ally,1,Malaysia,ally,1,United States,ally,1,7,Mediun
+Fluorspar,used in the manufacture of aluminum,China,competitor,3,Mexico,ally,1,Mongolia,ally,1,South Africa,neutral,2,Spain,ally,1,8,Medium
+Gadolinium,used in medical imaging,China,competitor,3,India,ally,1,Russia,competitor,3,Malaysia,ally,1,Brazil,neutral,2,10,Mediun
+Gallium,used for integrated circuits and optical devices like LEDs,China,competitor,3,Ukraine,ally,1,Germany,ally,1,Kazakhstan,ally,1,United States,ally,1,7,Medium
+Germanium,used for fiber optics and night vision applications,China,competitor,3,Russia,competitor,3,Peru,ally,1,Namibia,ally,1,United States,ally,1,9,Medium
+Graphite ,used for lubricants,China,competitor,3,India,ally,1,Brazil,neutral,2,Canada,ally,1,Mozambique,ally,1,8,High
+Hafnium,used for nuclear control rods,China,competitor,3,Ukraine,ally,1,Russia,competitor,3,Brazil,neutral,2,United States,ally,1,10,Medium
+Holmium,used in permanent magnets,China,competitor,3,Russia,competitor,3,United States,ally,1,Brazil,neutral,2,India,ally,1,10,Mediun
+Indium,used in liquid crystal display screens,China,competitor,3,South Korea,ally,1,Canada,ally,1,Japan,ally,1,Belgium,ally,1,7,Medium
+Iridium,used as coating of anodes for electrochemical processes and as a chemical catalyst,South Africa,neutral,2,Russia,competitor,3,Zimbabwe,neutral,2,Canada,ally,1,United States,ally,1,9,Mediun
+Lanthanum,used to produce catalysts,China,competitor,3,Australia,ally,1,Brazil,neutral,2,Malaysia,ally,1,India,ally,1,8,Medium
+Lithium,used for rechargeable batteries,Australia,ally,1,Chile,ally,1,China,competitor,3,Zimbabwe,neutral,2,Argentina,ally,1,8,High
+Lutetium,used in scintillators for medical imaging,China,competitor,3,Russia,competitor,3,Brazil,neutral,2,India,ally,1,United States,ally,1,10,Mediun
+Magnesium,used as an alloy and for reducing metals,China,competitor,3,Russia,competitor,3,Israel,ally,1,Kazakhstan,ally,1,Brazil,neutral,2,10,High
+Manganese,used in steelmaking and batteries,China,competitor,3,South Africa,neutral,2,Australia,ally,1,Gabon,neutral,2,Brazil,neutral,2,10,High
+Neodymium,used in permanent magnets,China,competitor,3,Australia,ally,1,United States,ally,1,Brazil,neutral,2,Russia,competitor,3,10,High
+Nickel,used to make stainless steel,Indonesia,ally,1,Philippines,ally,1,Russia,competitor,3,New Caledonia,ally,1,Australia,ally,1,7,High
+Niobium,used mostly in steel and superalloys,Brazil,neutral,2,Canada,ally,1,Nigeria,ally,1,Rwanda,ally,1,Australia,ally,1,6,High
+Palladium,used in catalytic converters and as a catalyst agent,Russia,competitor,3,South Africa,neutral,2,Canada,ally,1,Zimbabwe,neutral,2,United States,ally,1,9,High
+Platinum,used in catalytic converters,South Africa,neutral,2,Russia,competitor,3,Zimbabwe,neutral,2,Canada,ally,1,United States,ally,1,9,High
+Praseodymium,used in permanent magnets,China,competitor,3,Myanmar,competitor,3,Brazil,neutral,2,India,ally,1,Russia,competitor,3,12,High
+Rhodium,used in catalytic converters,South Africa,neutral,2,Russia,competitor,3,Zimbabwe,neutral,2,Canada,ally,1,United States,ally,1,9,Mediun
+Rubidium,used for research and development in electronics,Canada,ally,1,Zimbabwe,neutral,2,Russia,competitor,3,Namibia,ally,1,Brazil,neutral,2,9,Mediun
+Ruthenium,used as catalysts,Russia,competitor,3,South Africa,neutral,2,Zimbabwe,neutral,2,Canada,ally,1,United States,ally,1,9,Mediun
+Samarium,used in permanent magnets,China,competitor,3,Brazil,neutral,2,India,ally,1,Russia,competitor,3,Malaysia,ally,1,10,Mediun
+Scandium,used for alloys,China,competitor,3,Russia,competitor,3,Ukraine,ally,1,Kazakhstan,ally,1,Australia,ally,1,9,Mediun
+Tantalum,used in electronic components,Democratic Republic of Congo,neutral,2,Rwanda,ally,1,Nigeria,ally,1,Brazil,neutral,2,China,competitor,3,9,High
+Tellurium,used in solar cells,China,competitor,3,Peru,ally,1,Japan,ally,1,Canada,ally,1,United States,ally,1,7,Mediun
+Terbium,used in permanent magnets,China,competitor,3,Brazil,neutral,2,Russia,competitor,3,India,ally,1,Malaysia,ally,1,10,Mediun
+Thulium,used in various metal alloys and in lasers,China,competitor,3,Brazil,neutral,2,Russia,competitor,3,United States,ally,1,Malaysia,ally,1,10,Mediun
+Tin,used as protective coatings and alloys for steel,China,competitor,3,Indonesia,ally,1,Myanmar,competitor,3,Peru,ally,1,Bolivia,competitor,3,11,High
+Titanium,used as a white pigment or metal alloys,China,competitor,3,Australia,ally,1,South Africa,neutral,2,India,ally,1,Canada,ally,1,8,High
+Tungsten,primarily used to make wear-resistant metals,China,competitor,3,Russia,competitor,3,Vietnam,ally,1,Bolivia,competitor,3,Portugal,ally,1,11,High
+Vanadium,primarily used as alloying agent for iron and steel,China,competitor,3,Russia,competitor,3,South Africa,neutral,2,Brazil,neutral,2,United States,ally,1,11,High
+Ytterbium,used for catalysts,China,competitor,3,Brazil,neutral,2,Russia,competitor,3,India,ally,1,Malaysia,ally,1,10,Mediun
+Yttrium,used for ceramic,China,competitor,3,Russia,competitor,3,Malaysia,ally,1,India,ally,1,Australia,ally,1,9,Mediun
+Zinc,primarily used in metallurgy to produce galvanized steel,China,competitor,3,Peru,ally,1,Australia,ally,1,United States,ally,1,Canada,ally,1,7,High
+Zirconium,used in the high-temperature ceramics and corrosion-resistant alloys.,Australia,ally,1,South Africa,neutral,2,China,competitor,3,Russia,competitor,3,India,ally,1,10,High
